@@ -1,0 +1,22 @@
+{
+  "james": {
+    "username": "james",
+    "password": "$2b$12$S5QN.WuVngLGntf5Ni5s0.vVY69sUt7p6x/jkqNiiaO/MHobr3I/m"
+  },
+  "alice": {
+    "username": "alice",
+    "password": "$2b$12$hashed_password_here"
+  },
+  "bob": {
+    "username": "bob",
+    "password": "$2b$12$another_hashed_password"
+  },
+  "ano": {
+    "username": "ano",
+    "password": "$2b$12$UoVu4ypckt23vzIAD2P.X.2IadDR6vAv.b.valTvAUMaW8dN5rf56"
+  },
+  "fghj": {
+    "username": "fghj",
+    "password": "$2b$12$75JXrhpQEK2saGDBEspuAui8wtmV4tAGtPSz0XeHGKLYoiKepbko6"
+  }
+}
